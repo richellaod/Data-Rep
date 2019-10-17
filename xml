@@ -1,0 +1,26 @@
+   
+<?xml version="1.0" encoding="UTF-8"?> 
+<catalog technical>
+   <book id="bk101">
+      <ISBN>9781517380434</ISBN>
+      <title>Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming</title>
+      <author>Cannon, Jason</author>
+   </book>
+   <book id="bk102">
+      <ISBN>9781847941107</ISBN>
+      <title>Scrum: The Art of Doing Twice the Work in Half the Time</title>
+      <author>Sutherland, Jeff</author>
+   </book>
+ </catalog>
+ <catalog cookery>
+  <book id="bk201">
+    <ISBN>9780717179084</ISBN>
+    <title>Natural Born Feeder</title>
+    <author>Purcell, Roz</author>
+   </book>
+   <book id="bk202">
+    <ISBN>9781473674264</ISBN>
+    <title>Donal's Meals in Minutes</title>
+    <author>Skehan, Donal</author>
+   </book>
+  </catalog>
